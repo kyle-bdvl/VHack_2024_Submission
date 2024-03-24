@@ -36,7 +36,7 @@ The project contains multiple webpages, where each webpage serves a specific pur
     iv.  DMP submission
    * This page is for new users to upload their debt management plans into the website. This is necessary so that the website may recommend products and services based on their budget constraints as stated within their DMP. Once the user has uploaded their DMP information, they will be sent to the homepage. Users who do not have a DMP plan may also skip this step and upload their DMP later.
 
-3. Home page-This section covers all components related to managing the user's personal finance.
+2. Home page-This section covers all components related to managing the user's personal finance.
    
     i.	 Home-main
    * This is the main page of this section. Upon successful log in or account creation, the user will be redirected to this page. This page shows the user their budget details in terms of amount spent and budget requirements so that they may plan their spending. Users can also use this page to report recent transactions or update the details regarding their debt management plans here. Finally, users may also view their transaction history for both income and expenditures.
@@ -47,7 +47,7 @@ The project contains multiple webpages, where each webpage serves a specific pur
     iii.  My DMP
    * This is the page where users are allowed to manage and update their DMP. The contents of this page are similar to the DMP submission page in the Start up section.
 
-4. Search-This section covers all components responsible for providing the product and job recommendation features.
+3. Search-This section covers all components responsible for providing the product and job recommendation features.
    
     i.  Search-main
    * This is the main page of the section. This page allows users to directly access the product recommendations within the website. Thus, it also serves as a junction for the various product categories classified. In this page, users can set their location information to localize website recommendations. A general search bar is also provided to enable direct searching for products, services or jobs. Below the search bar are buttons that lead to different product categories, such as food and groceries. Users can tap on the button associated with each category to navigate to their respective category pages. Finally, general product recommendations fill the remainder of the page.
@@ -61,7 +61,7 @@ The project contains multiple webpages, where each webpage serves a specific pur
     iv.  Transaction confirmation page
    * If the user decides to proceed with purchasing the items within the purchase list (3. iii), this page is displayed. It informs users that the website acknowledges the purchase made and will use it to recalculate product recommendations.
 
-5. Community-This section covers the components responsible for connecting users to the community.
+4. Community-This section covers the components responsible for connecting users to the community.
    
     i.  Community-main
    * This is the main page of the section. In this page, users can manage their advertisements on the platform as well as the sale of their unwanted items as second-hand products. Their advertisements serve as the products that may be recommended to other users. Meanwhile, the items they put up as second-hand products will be visible to other users who are browsing for second-hand deals. Users can also access forums started by other users and participate in active discussion. A personal message system is also implemented for private conversations between different users.
@@ -69,7 +69,7 @@ The project contains multiple webpages, where each webpage serves a specific pur
     ii.  Advertisements and Second-Hand wares
    * These pages allow users to manage their advertisements and second-hand wares respectively. They are accessible by  websiteing on the "Manage my advertisements" and "Manage my second-hand wares" buttons in the Community-main page. In each page, items can be sorted according to categories and directly interacted with.
 
-6. Profile-This section covers all components that assist the user in managing their account.
+5. Profile-This section covers all components that assist the user in managing their account.
    
     i.  Profile-main
    * This page enables users to directly manage their profile on the website. Users can edit their profile, see their saved posts, manage blocked users, synchronize e-wallets and modify website settings. They can also log out of their account in this page. Logging out brings them to the start up page.
